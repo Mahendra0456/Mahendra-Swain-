@@ -128,15 +128,6 @@ Passionate about Cloud Infrastructure, Kubernetes, CI/CD Automation, and Infrast
 
 ---
 
-# 🏆 Certifications
-
-- AWS Cloud Practitioner
-- AWS Solutions Architect (Learning)
-- Azure Fundamentals (Learning)
-- Kubernetes & Terraform Projects
-
----
-
 # 🔥 DevOps Quote
 
 <p align="center">
