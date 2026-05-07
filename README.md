@@ -1,99 +1,150 @@
-<h1 align="center">Hi 👋,I'M Mahendra Swain</h1>
-<h3 align="center">A passionate AWS DevOps Engineer</h3>
+<!-- ====================== HEADER ====================== -->
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Mahi441996&label=Profile%20views&color=0e75b6&style=flat" alt="Mahendra Swain" />
+<h1 align="center">Hi 👋, I'm Mahendra Swain</h1>
+
+<h3 align="center">
+🚀 DevOps & Multi-Cloud Engineer | AWS • Azure • GCP
+</h3>
+
+<p align="center">
+Passionate about Cloud Infrastructure, Kubernetes, CI/CD Automation, and Infrastructure as Code.
 </p>
 
-<p>
-  📧 <b>Email:</b>
-  <a href="mailto:swainmahendra04@gmail.com">swainmahendra04@gmail.com</a>
-</p>
+<!-- ====================== TYPING EFFECT ====================== -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mahendra-swain" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
-      height="35"
-      width="40" />
-  </a>
-
-  <a href="https://www.facebook.com/groups/awsbymahendra" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Facebook"
-      height="35"
-      width="40" />
-  </a>
-
-  <a href="https://github.com/Mahi441996" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-      alt="GitHub"
-      height="35"
-      width="40" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+%7C+Azure+%7C+GCP;Kubernetes+Enthusiast;Terraform+Automation;CI%2FCD+Pipeline+Builder" alt="Typing SVG" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
+<!-- ====================== PROFILE VIEWS ====================== -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mahi441996&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahendra-swain">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.microsoft.com/azure" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45"/>
+
+  <a href="mailto:swainmahendra04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/>
-  </a>
-  <a href="https://www.nginx.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
-  </a>
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="45"/>
-  </a>
-  <a href="https://grafana.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="45"/>
+
+  <a href="https://github.com/Mahi441996">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<p>
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahi441996&show_icons=true&locale=en&layout=compact"
-    alt="Mahendra Swain" />
+---
+
+# 💫 About Me
+
+- ☁️ Multi-Cloud Engineer (AWS | Azure | GCP)
+- ⚙️ Passionate about DevOps & Automation
+- 🐳 Docker & Kubernetes Enthusiast
+- 🚀 Building CI/CD Pipelines
+- 🏗️ Infrastructure as Code using Terraform
+- 📈 Monitoring with Prometheus & Grafana
+- 🔥 Always learning new Cloud Technologies
+
+---
+
+# 🚀 Tech Stack
+
+## ☁️ Cloud Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+</p>
+
+---
+
+## ⚙️ DevOps Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,githubactions" />
+</p>
+
+---
+
+## 💻 Programming & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,nodejs,mysql,postgres,mongodb,redis" />
+</p>
+
+---
+
+## 🖥️ Operating Systems & Servers
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,nginx,git,github" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🔹 End-to-End CI/CD Pipeline
+- Jenkins
+- Docker
+- Kubernetes
+- SonarQube
+- ArgoCD
+
+### 🔹 Multi-Cloud Infrastructure Automation
+- AWS VPC
+- Azure Virtual Network
+- GCP Networking
+- Terraform Modules
+
+### 🔹 Kubernetes Monitoring Stack
+- Prometheus
+- Grafana
+- AlertManager
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahi441996&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahi441996&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi441996&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 Certifications
+
+- AWS Cloud Practitioner
+- AWS Solutions Architect (Learning)
+- Azure Fundamentals (Learning)
+- Kubernetes & Terraform Projects
+
+---
+
+# 🔥 DevOps Quote
+
+<p align="center">
+⚡ “Automation is good, so long as you know exactly where to put the machine.”
+</p>
+
+---
+
+<p align="center">
+⭐ From <a href="https://github.com/Mahi441996">Mahendra Swain</a>
 </p>
