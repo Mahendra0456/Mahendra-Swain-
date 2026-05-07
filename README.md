@@ -25,9 +25,9 @@
 <!-- ======================= PROFILE BADGES ======================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mahi441996&style=for-the-badge&color=blueviolet"/>
-  <img src="https://img.shields.io/github/followers/Mahi441996?style=for-the-badge&color=blue"/>
-  <img src="https://img.shields.io/github/stars/Mahi441996?style=for-the-badge&color=orange"/>
+  <img src="https://komarev.com/ghpvc/?username=Mahendra0456&style=for-the-badge&color=blueviolet"/>
+  <img src="https://img.shields.io/github/followers/Mahendra0456?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/stars/Mahendra0456?style=for-the-badge&color=orange"/>
 </p>
 
 ---
@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Mahi441996">
+<a href="https://github.com/Mahendra0456">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -115,28 +115,82 @@
 
 ---
 
-# 📊 GitHub Analytics
+<!-- ========================== ANALYTICS SECTION ========================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+<h1 align="center">
+📊 GitHub Analytics
+</h1>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mahi441996&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahi441996&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="180em"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahendra0456&theme=tokyonight"/>
+
+<img height="180em"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahendra0456&theme=tokyonight"/>
+
 </p>
 
----
-
-# 🔥 Contribution Streak
+<br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahi441996&theme=tokyonight&hide_border=true"/>
+
+<img width="95%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahendra0456&theme=tokyonight"/>
+
 </p>
 
----
+<br>
 
-# 🏆 Achievements
+<!-- ========================== STREAK SECTION ========================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+<h1 align="center">
+🔥 Contribution Streak
+</h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahi441996&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+<img width="80%"
+src="https://streak-stats.demolab.com?user=mahendra0456&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</p>
+
+<br>
+
+<!-- ========================== ACHIEVEMENTS ========================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+<h1 align="center">
+🏆 Achievements
+</h1>
+
+<p align="center">
+
+<img width="95%"
+src="https://github-profile-trophy.vercel.app/?username=mahendra0456&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+
+</p>
+
+<br>
+
+<!-- ========================== ACTIVITY GRAPH ========================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+<h1 align="center">
+📈 Contribution Graph
+</h1>
+
+<p align="center">
+
+<img width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=mahendra0456&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
@@ -145,18 +199,22 @@
 
 <p align="center">
 
-```yaml
-Cloud:
-  - AWS
-  - Azure
-  - GCP
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-DevOps:
-  - Docker
-  - Kubernetes
-  - Terraform
-  - Jenkins
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
-Monitoring:
-  - Prometheus
-  - Grafana
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
+</p>
